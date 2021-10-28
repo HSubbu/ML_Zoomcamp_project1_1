@@ -1,0 +1,5 @@
+DEPLOYMENT OF WEBSERVICE ON HEROKU
+
+The webservice has been deployed on heroku and the web service can be accessed by passing requests to the host
+running a different python script "seeking_webservice_heroku.py" on any python editor should fetch results
+run $ python seeking_webservice_heroku.py
